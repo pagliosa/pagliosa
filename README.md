@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pagliosa
-- 👀 I’m interested in Machine Learning and Visualization
+- 👀 I’m interested in Machine Learning and Data Visualization
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Interfaces for Data Analysis
 - 📫 How to reach me: carvalho.pagliosa@gmail.com
