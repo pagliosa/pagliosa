@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pagliosa
 - 👀 I’m interested in Machine Learning and Data Visualization
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m creating JorVis, a Web solution for Data Analysis and Exploration
+- 💞️ I created JorVis, a Web solution for Data Analysis and Exploration
 - 📫 How to reach me: carvalho.pagliosa@gmail.com
 
 <!---
